@@ -81,8 +81,7 @@ Microsoft Excel – For data cleaning, pivot table analysis, and KPI calculation
 ## Conclusion
 This project provided a comprehensive analysis of Blinkit's sales data, uncovering valuable insights into customer preferences, store performance, and product category contributions. The data highlights strong performance in Tier 3 cities, dominance of Low Fat products, and the efficiency of Small/Medium stores and Supermarket Type 1 formats. However, it also reveals areas for improvement, such as underperforming product categories and post-2018 sales stagnation.
 
-Through data-driven recommendations, the project outlines actionable strategies to optimize product offerings, improve store operations, and align marketing efforts with demand trends. This analysis not only enhances business decision-making but also demonstrates key skills in data cleaning, KPI development, and business storytelling—making it a strong addition to a data analyst portfolio.
-
+Through data-driven recommendations, the project outlines actionable strategies to optimize product offerings, improve store operations, and align marketing efforts with demand trends. This analysis not only enhances business decision-making but also demonstrates key skills in data cleaning, KPI development, and business storytelling.
 
 
 

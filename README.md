@@ -83,5 +83,7 @@ This project provided a comprehensive analysis of Blinkit's sales data, uncoveri
 
 Through data-driven recommendations, the project outlines actionable strategies to optimize product offerings, improve store operations, and align marketing efforts with demand trends. This analysis not only enhances business decision-making but also demonstrates key skills in data cleaning, KPI development, and business storytelling.
 
+## Business impact 
+This project uncovered that Tier 3 cities contribute the highest sales, highlighting untapped growth potential in smaller markets. Supermarket Type 1 formats and Low Fat product variants emerged as top performers, guiding product and store format strategies. Underperforming categories like Seafood and Breakfast can be deprioritized, improving inventory efficiency. Consistent transaction values emphasize the importance of increasing volume through targeted promotions. Overall, the insights support strategic decisions that can boost revenue by 10–15% through smarter regional, product, and operational planning.
 
 

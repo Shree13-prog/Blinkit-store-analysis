@@ -65,7 +65,7 @@ Microsoft Excel – For data cleaning, pivot table analysis, and KPI calculation
 - All store types have nearly the same average sale (~$140), suggesting uniform transaction values across formats.
 - Despite uniformity in average sales, volume (number of transactions) is what drives the difference in total sales.
 
-10. Count of Transactions by Store Type
+9. Count of Transactions by Store Type
 - Supermarket Type 1 dominates with 5,577 transactions, nearly 5x that of other store types(Supermarket Type1, 2, 3, grocery store).
 - Higher footfall in Type 1 stores drives their overall sales dominance.
 
